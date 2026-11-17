@@ -1,0 +1,253 @@
+{
+  "programs": [
+    {
+      "id": "program-1",
+      "title": "গণশিক্ষা",
+      "route": "/OpenIslamicEducationFoundation/programs/community-education/",
+      "category": "গণশিক্ষা",
+      "image": "study",
+      "summary": "স্থানীয় কেন্দ্রে শিশু ও বড়দের কুরআন ও প্রয়োজনীয় ইসলামী শিক্ষার সুযোগ।",
+      "body": "স্থানীয় কেন্দ্রে শিশু ও বড়দের কুরআন ও প্রয়োজনীয় ইসলামী শিক্ষার সুযোগ। প্রয়োজনভিত্তিক পরিকল্পনা, সংশ্লিষ্ট দায়িত্বশীলদের সমন্বয় ও কাজের তথ্য সংরক্ষণের মাধ্যমে উদ্যোগটি এগিয়ে নেওয়ার লক্ষ্য।",
+      "status": "চলমান",
+      "visible": true
+    },
+    {
+      "id": "program-2",
+      "title": "মাদরাসা ও স্কুল",
+      "route": "/OpenIslamicEducationFoundation/programs/institutions/",
+      "category": "মাদরাসা ও স্কুল",
+      "image": "centre",
+      "summary": "বিদ্যালয়, কওমি, হিফজ ও বড়দের শিক্ষার সমন্বিত উদ্যোগ।",
+      "body": "বিদ্যালয়, কওমি, হিফজ ও বড়দের শিক্ষার সমন্বিত উদ্যোগ। প্রয়োজনভিত্তিক পরিকল্পনা, সংশ্লিষ্ট দায়িত্বশীলদের সমন্বয় ও কাজের তথ্য সংরক্ষণের মাধ্যমে উদ্যোগটি এগিয়ে নেওয়ার লক্ষ্য।",
+      "status": "চলমান",
+      "visible": true
+    },
+    {
+      "id": "program-3",
+      "title": "পাঠ্যক্রম ও পাঠ্যপুস্তক",
+      "route": "/OpenIslamicEducationFoundation/programs/curriculum/",
+      "category": "পাঠ্যক্রম ও পাঠ্যপুস্তক",
+      "image": "learning",
+      "summary": "ইসলামী ও সাধারণ শিক্ষার সমন্বিত পাঠ্যক্রম ও পাঠ্যবই।",
+      "body": "ইসলামী ও সাধারণ শিক্ষার সমন্বিত পাঠ্যক্রম ও পাঠ্যবই। প্রয়োজনভিত্তিক পরিকল্পনা, সংশ্লিষ্ট দায়িত্বশীলদের সমন্বয় ও কাজের তথ্য সংরক্ষণের মাধ্যমে উদ্যোগটি এগিয়ে নেওয়ার লক্ষ্য।",
+      "status": "চলমান",
+      "visible": true
+    },
+    {
+      "id": "program-4",
+      "title": "শিক্ষক প্রশিক্ষণ",
+      "route": "/OpenIslamicEducationFoundation/programs/teacher-training/",
+      "category": "শিক্ষক প্রশিক্ষণ",
+      "image": "training",
+      "summary": "পাঠদান পদ্ধতি, বিষয়ভিত্তিক প্রস্তুতি ও শিক্ষক উন্নয়ন।",
+      "body": "পাঠদান পদ্ধতি, বিষয়ভিত্তিক প্রস্তুতি ও শিক্ষক উন্নয়ন। প্রয়োজনভিত্তিক পরিকল্পনা, সংশ্লিষ্ট দায়িত্বশীলদের সমন্বয় ও কাজের তথ্য সংরক্ষণের মাধ্যমে উদ্যোগটি এগিয়ে নেওয়ার লক্ষ্য।",
+      "status": "চলমান",
+      "visible": true
+    },
+    {
+      "id": "program-5",
+      "title": "পরীক্ষা ও বৃত্তি",
+      "route": "/OpenIslamicEducationFoundation/programs/exams-scholarships/",
+      "category": "পরীক্ষা ও বৃত্তি",
+      "image": "study",
+      "summary": "পাঠের অগ্রগতি মূল্যায়ন ও মেধাবী শিক্ষার্থীদের উৎসাহ।",
+      "body": "পাঠের অগ্রগতি মূল্যায়ন ও মেধাবী শিক্ষার্থীদের উৎসাহ। প্রয়োজনভিত্তিক পরিকল্পনা, সংশ্লিষ্ট দায়িত্বশীলদের সমন্বয় ও কাজের তথ্য সংরক্ষণের মাধ্যমে উদ্যোগটি এগিয়ে নেওয়ার লক্ষ্য।",
+      "status": "চলমান",
+      "visible": true
+    },
+    {
+      "id": "program-6",
+      "title": "ত্রাণ ও কল্যাণ",
+      "route": "/OpenIslamicEducationFoundation/programs/relief/",
+      "category": "ত্রাণ ও কল্যাণ",
+      "image": "relief-wide",
+      "summary": "দুর্যোগ, খাদ্য ও শীতবস্ত্র সহায়তায় মানুষের পাশে দাঁড়ানো।",
+      "body": "দুর্যোগ, খাদ্য ও শীতবস্ত্র সহায়তায় মানুষের পাশে দাঁড়ানো। প্রয়োজনভিত্তিক পরিকল্পনা, সংশ্লিষ্ট দায়িত্বশীলদের সমন্বয় ও কাজের তথ্য সংরক্ষণের মাধ্যমে উদ্যোগটি এগিয়ে নেওয়ার লক্ষ্য।",
+      "status": "সম্পন্ন",
+      "visible": true
+    },
+    {
+      "id": "program-7",
+      "title": "স্বাস্থ্যসেবা ও রক্তদান",
+      "route": "/OpenIslamicEducationFoundation/programs/health-blood/",
+      "category": "স্বাস্থ্যসেবা ও রক্তদান",
+      "image": "health",
+      "summary": "রক্তদানে অংশগ্রহণ, রক্তের গ্রুপ নির্ণয় ও স্বাস্থ্য সচেতনতা।",
+      "body": "রক্তদানে অংশগ্রহণ, রক্তের গ্রুপ নির্ণয় ও স্বাস্থ্য সচেতনতা। প্রয়োজনভিত্তিক পরিকল্পনা, সংশ্লিষ্ট দায়িত্বশীলদের সমন্বয় ও কাজের তথ্য সংরক্ষণের মাধ্যমে উদ্যোগটি এগিয়ে নেওয়ার লক্ষ্য।",
+      "status": "সম্পন্ন",
+      "visible": true
+    },
+    {
+      "id": "program-8",
+      "title": "প্রকাশনা ও প্রচার",
+      "route": "/OpenIslamicEducationFoundation/programs/publications-outreach/",
+      "category": "প্রকাশনা ও প্রচার",
+      "image": "learning",
+      "summary": "শিক্ষামূলক প্রকাশনা ও মানুষের কাছে কাজের তথ্য পৌঁছে দেওয়া।",
+      "body": "শিক্ষামূলক প্রকাশনা ও মানুষের কাছে কাজের তথ্য পৌঁছে দেওয়া। প্রয়োজনভিত্তিক পরিকল্পনা, সংশ্লিষ্ট দায়িত্বশীলদের সমন্বয় ও কাজের তথ্য সংরক্ষণের মাধ্যমে উদ্যোগটি এগিয়ে নেওয়ার লক্ষ্য।",
+      "status": "চলমান",
+      "visible": true
+    }
+  ],
+  "courses": [
+    {
+      "id": "teaching-methods",
+      "title": "শিক্ষক প্রশিক্ষণ: পাঠদান পদ্ধতি",
+      "center": "নমুনা কেন্দ্র — ঢাকা",
+      "status": "ভর্তি চলছে",
+      "start": "2026-12-01",
+      "end": "2027-02-28",
+      "enrollment": "2026-11-28",
+      "schedule": "শুক্র ও শনিবার · সকাল ৯টা–দুপুর ১২টা",
+      "trainer": "U-101",
+      "summary": "পাঠ পরিকল্পনা, শ্রেণিকক্ষ পরিচালনা ও শিক্ষার্থীর মূল্যায়ন।"
+    },
+    {
+      "id": "quran-teaching",
+      "title": "কুরআন শিক্ষাদান ও শুদ্ধ উচ্চারণ",
+      "center": "নমুনা কেন্দ্র — স্থানীয়",
+      "status": "শুরু হয়েছে",
+      "start": "2026-11-01",
+      "end": "2026-12-31",
+      "enrollment": "2026-10-28",
+      "schedule": "রবি ও মঙ্গলবার · বিকাল ৪টা–৬টা",
+      "trainer": "U-101",
+      "summary": "শুদ্ধ উচ্চারণ, পাঠের অনুশীলন ও শিক্ষাদানের কৌশল।"
+    }
+  ],
+  "notices": [
+    {
+      "id": "study-guides",
+      "title": "২০২৬ সালের পরীক্ষার প্রস্তুতি উপকরণ",
+      "category": "পরীক্ষা",
+      "date": "2026-11-17",
+      "summary": "নার্সারি ও প্রথম শ্রেণির প্রস্তুতি নির্দেশনা ও বিষয়ভিত্তিক সাজেশন দেখুন।",
+      "body": "",
+      "target": "/OpenIslamicEducationFoundation/resources/exam-preparation/",
+      "visible": true
+    },
+    {
+      "id": "training-enrollment",
+      "title": "শিক্ষক প্রশিক্ষণ কোর্সে ভর্তির তথ্য",
+      "category": "কোর্স",
+      "date": "2026-11-17",
+      "summary": "কেন্দ্র, ক্লাসের সময় ও কোর্সের মেয়াদ একসঙ্গে দেখুন।",
+      "body": "",
+      "target": "/OpenIslamicEducationFoundation/courses/teaching-methods/",
+      "visible": true
+    },
+    {
+      "id": "results",
+      "title": "পরীক্ষার ফলাফল ও প্রকাশের নির্দেশনা",
+      "category": "ফলাফল",
+      "date": "2026-11-16",
+      "summary": "ফলাফলসংক্রান্ত তথ্যের জন্য নির্ধারিত পাতায় যান।",
+      "body": "",
+      "target": "/OpenIslamicEducationFoundation/resources/results/",
+      "visible": true
+    },
+    {
+      "id": "coordination",
+      "title": "কেন্দ্র সমন্বয় সম্পর্কে সাধারণ বিজ্ঞপ্তি",
+      "category": "অন্যান্য",
+      "date": "2026-11-15",
+      "summary": "কেন্দ্রের কোর্স ও সময়সূচি যাচাই করে অংশ নিন।",
+      "body": "প্রশিক্ষণে অংশ নেওয়ার আগে সংশ্লিষ্ট কোর্সের কেন্দ্র, শুরুর তারিখ, মেয়াদ ও ক্লাসের সময় দেখে নিন। কোনো পরিবর্তন হলে এই নোটিশে বিস্তারিত জানানো হবে।",
+      "target": "",
+      "visible": true
+    }
+  ],
+  "users": [
+    {
+      "id": "U-101",
+      "grants": [
+        "teacher"
+      ],
+      "course": "quran-teaching"
+    },
+    {
+      "id": "U-102",
+      "grants": [
+        "trainee"
+      ],
+      "course": "quran-teaching",
+      "enrollments": [
+        "quran-teaching",
+        "teaching-methods"
+      ]
+    },
+    {
+      "id": "U-103",
+      "grants": [],
+      "course": ""
+    }
+  ],
+  "staff": [
+    {
+      "id": "A-01",
+      "role": "institution"
+    },
+    {
+      "id": "E-01",
+      "role": "editor"
+    },
+    {
+      "id": "C-01",
+      "role": "cms"
+    },
+    {
+      "id": "F-01",
+      "role": "finance"
+    }
+  ],
+  "attendance": {
+    "quran-teaching|2026-11-10": {
+      "U-102": true
+    },
+    "quran-teaching|2026-11-12": {
+      "U-102": false
+    },
+    "quran-teaching|2026-11-14": {
+      "U-102": true
+    }
+  },
+  "tests": [
+    {
+      "id": "test-1",
+      "course": "quran-teaching",
+      "title": "উচ্চারণ মূল্যায়ন",
+      "date": "2026-11-12",
+      "max": 20,
+      "visible": true,
+      "scores": {
+        "U-102": 16
+      }
+    },
+    {
+      "id": "test-2",
+      "course": "quran-teaching",
+      "title": "পাঠদান অনুশীলন",
+      "date": "2026-11-15",
+      "max": 50,
+      "visible": true,
+      "scores": {
+        "U-102": 42
+      }
+    }
+  ],
+  "materials": [
+    {
+      "course": "quran-teaching",
+      "title": "শুদ্ধ উচ্চারণের অনুশীলন",
+      "body": "নিয়মিত পাঠের পুনরাবৃত্তি করুন এবং শিক্ষকের নির্দেশনা অনুসরণ করুন।",
+      "visible": true
+    }
+  ],
+  "cms": {
+    "heading": "শিক্ষার আলোয়, সেবার অঙ্গীকারে।",
+    "visible": true,
+    "slides": []
+  },
+  "reconciled": false,
+  "traineeSecondCourseV1": true
+}
