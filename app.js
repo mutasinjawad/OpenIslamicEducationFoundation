@@ -32,7 +32,7 @@ function setMobileMenu(open,returnFocus=false,instant=false){
    document.body.classList.add('menu-open');document.documentElement.classList.add('menu-open');
   }
   mobile.hidden=false;mobile.inert=false;mobile.removeAttribute('aria-hidden');backdrop.hidden=false;
-  document.querySelectorAll('.site-header,main,.site-footer').forEach(element=>element.inert=true);
+  document.querySelectorAll('.announcement-bar,.site-header,main,.site-footer').forEach(element=>element.inert=true);
   drawerClose.focus({preventScroll:true});
  }else{
   mobile.inert=true;mobile.setAttribute('aria-hidden','true');
@@ -43,7 +43,7 @@ function setMobileMenu(open,returnFocus=false,instant=false){
    mobile.hidden=true;backdrop.hidden=true;
    document.body.classList.remove('menu-open');document.documentElement.classList.remove('menu-open');document.body.style.top='';
    window.scrollTo({top:menuScrollY,behavior:'instant'});
-   document.querySelectorAll('.site-header,main,.site-footer').forEach(element=>element.inert=false);
+   document.querySelectorAll('.announcement-bar,.site-header,main,.site-footer').forEach(element=>element.inert=false);
    if(returnFocus&&!desktopQuery.matches)menu.focus({preventScroll:true});
   }
   drawerAnimation?.cancel();backdropAnimation?.cancel();drawerAnimation=null;backdropAnimation=null;
