@@ -9,7 +9,7 @@ window.OIEFPublicReady=(async()=>{
  const model=await window.OIEFReview,d=model.data;
  const visibleNotices=()=>d.notices.filter(n=>n.visible).slice().reverse().sort((a,b)=>b.date.localeCompare(a.date));
  const noticeURL=n=>n.target||'/OpenIslamicEducationFoundation/notices/detail/?id='+encodeURIComponent(n.id);
- const courseURL=c=>['teaching-methods','quran-teaching'].includes(c.id)?'/OpenIslamicEducationFoundation/courses/'+c.id+'/OpenIslamicEducationFoundation/':'/OpenIslamicEducationFoundation/courses/detail/?id='+encodeURIComponent(c.id);
+ const courseURL=c=>['teaching-methods','quran-teaching'].includes(c.id)?'/OpenIslamicEducationFoundation/courses/'+c.id+'/':'/OpenIslamicEducationFoundation/courses/detail/?id='+encodeURIComponent(c.id);
  const courseCards=()=>d.courses.map(c=>card(c.title,c.summary,courseURL(c),badge(c.status)+`<p class="post-meta">${esc(c.center)}<br>${date(c.start)} – ${date(c.end)}</p><p>${esc(c.schedule)}</p>`)).join('');
  document.querySelectorAll('[data-review-list]').forEach(el=>{el.innerHTML=el.dataset.reviewList==='courses'?courseCards():visibleNotices().map(n=>card(n.title,n.summary,noticeURL(n),`<div class="post-meta">${badge(n.category)} <time datetime="${esc(n.date)}">${date(n.date)}</time></div>`)).join('')||'<p>এখন কোনো নোটিশ নেই।</p>';});
  const home=document.querySelector('[data-home-notices]');if(home)home.innerHTML=visibleNotices().slice(0,3).map(n=>`<a href="${esc(noticeURL(n))}"><span class="notice-period">${esc(n.category)}</span><span>${esc(n.title)}</span></a>`).join('');
